@@ -27,23 +27,23 @@ Ypan云盘是一个基于Vue.js框架开发的Web应用程序，旨在为用户�
 
 1. **加载界面**
 
-   ![](https://github.com/zfj9920/Ypan-/blob/main/image/home.png)
+   ![](https://github.com/zfj9920/Ypan-/blob/main/image/loading.png)
 
 2. **登录界面**
 
-   ![](E:\Desktop\project-1--cloud-disk-master\login.png)
+   ![](https://github.com/zfj9920/Ypan-/blob/main/image/login.png)
 
 3. **主页界面**
 
-   ![](E:\Desktop\project-1--cloud-disk-master\home.png)
+   ![](https://github.com/zfj9920/Ypan-/blob/main/image/home.png)
 
 4. **回收站界面**
 
-   ![](E:\Desktop\project-1--cloud-disk-master\huishou.png)
+   ![](https://github.com/zfj9920/Ypan-/blob/main/image/huishou.png)
 
 5. **上传列表界面**
 
-   ![](E:\Desktop\project-1--cloud-disk-master\upload.png)
+   ![](https://github.com/zfj9920/Ypan-/blob/main/image/upload.png)
 
 
 
