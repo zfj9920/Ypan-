@@ -27,7 +27,7 @@ Ypan云盘是一个基于Vue.js框架开发的Web应用程序，旨在为用户�
 
 1. **加载界面**
 
-   ![](E:\Desktop\project-1--cloud-disk-master\loading.png)
+   ![](.\image\loading.png)
 
 2. **登录界面**
 
