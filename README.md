@@ -6,11 +6,11 @@ Ypan云盘是一个基于Vue.js框架开发的Web应用程序，旨在为用户�
 
 ## 技术栈
 
-- **Vue.js **
+- **Vue.js**
   - Vue.js是一款流行的JavaScript前端框架，用于构建用户界面和单页面应用程序（SPA）。
 - **Vue Router**
   - Vue Router是Vue.js官方的路由管理器，用于管理应用程序的路由和导航。
-- **Axios **
+- **Axios**
   - Axios是一个基于Promise的HTTP客户端，用于在浏览器和Node.js中进行HTTP通信。
 - **Element Plus **
   - Element Plus是一套基于Vue 3.0的桌面端UI组件库，提供了一系列优雅的UI组件，可帮助快速构建用户界面。
@@ -18,7 +18,7 @@ Ypan云盘是一个基于Vue.js框架开发的Web应用程序，旨在为用户�
   - Element Plus的图标组件，用于展示各种图标以丰富界面。
 - **@vant/touch-emulator**
   - Vant是一个移动端UI组件库，该库中的`@vant/touch-emulator`用于在非触摸屏设备上模拟触摸事件，以便测试和开发。
-- **js-md5 **
+- **js-md5**
   - js-md5是一个用于生成MD5摘要的JavaScript库，通常用于加密和数据完整性验证。
 - **Vue Axios**
   - Vue Axios是Vue.js官方推荐的Axios的Vue插件，用于在Vue应用中使用Axios进行HTTP请求。
