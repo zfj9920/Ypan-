@@ -1,0 +1,31 @@
+{
+  "name": "team_pro_1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@vant/touch-emulator": "^1.4.0",
+    "axios": "^1.5.0",
+    "element-plus": "^2.3.12",
+    "js-md5": "^0.7.3",
+    "vue": "^3.2.13",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/js-md5": "^0.7.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "pinia": "^2.1.6",
+    "sass": "^1.32.7",
+    "sass-loader": "^12.0.0",
+    "typescript": "~4.5.5",
+    "unplugin-auto-import": "^0.16.6",
+    "unplugin-vue-components": "^0.25.2"
+  }
+}
